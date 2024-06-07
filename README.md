@@ -4,13 +4,6 @@
 
 **TetristeGame** est un jeu de réflexion basé sur le principe de l'alignement de formes géométriques colorées. Le but du jeu est de récupérer le maximum de points en plaçant des formes de manière stratégique dans une ligne. Les formes peuvent être des rectangles, triangles, losanges ou ronds, et peuvent être de couleur rouge, bleu, jaune ou vert.
 
-## Capture d'écran
-
-Voici une capture d'écran du jeu en cours d'exécution :
-
-![Capture d'écran du jeu Snoopy](img/Capture d’écran 2024-06-07 195725.jpg)
-
-
 ## Règles du Jeu
 - **Objectif** : Aligner des formes de la même couleur ou de la même géométrie pour accumuler des points.
 - **Formes et couleurs** : Les formes possibles sont rectangle, triangle, losange, et rond. Les couleurs possibles sont rouge, bleu, jaune, et vert.
