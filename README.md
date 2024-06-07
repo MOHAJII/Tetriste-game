@@ -23,7 +23,7 @@
 - **Langage** : C++
 - **Bibliothèque graphique** : SDL2
 - **Outils** : Git, GitHub, Visual Studio Code
-![Texte alternatif](img/Capture d’écran 2024-06-07 195725.jpg)
+
 ## Installation
 Pour exécuter ce projet en local, suivez ces étapes :
 
