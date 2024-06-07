@@ -1,0 +1,3 @@
+all:
+	g++ -Iinclude/sdl2  -Iinclude/headers -Iinclude/nlohmann -Llib -o Tetrise src/*.cpp -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
+	Tetrise.exe
