@@ -23,7 +23,7 @@
 ## Technologies Utilisées
 - **Langage** : C++
 - **Bibliothèque graphique** : SDL2
-- **Outils** : Git, GitHub, Visual Studio Code
+- **Outils** : Git, GitHub, Visual Studio Code.
 
 ## Installation
 Pour exécuter ce projet en local, suivez ces étapes :
